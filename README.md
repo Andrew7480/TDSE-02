@@ -45,6 +45,11 @@ The project explores deployment in Amazon SageMaker.
 <img width="1866" height="1001" alt="image" src="https://github.com/user-attachments/assets/d6511865-5ba9-4ba3-9373-d0ceb9b0d369" />
 
 
+Problem with AWS Academy Learner Lab
+
+<img width="993" height="548" alt="image" src="https://github.com/user-attachments/assets/d800c41e-7f3b-4cd2-b17f-0e90e1fdd187" />
+
+I'll update it when I can.
 
 ## Built With
 
