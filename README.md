@@ -180,6 +180,20 @@ Reason: Explicit deny in policy VocLabPolicy3-hxR4rpqIpSMq
 <img width="1499" height="301" alt="image" src="https://github.com/user-attachments/assets/af096f08-8d99-4827-adb3-71ee2e488f23" />
 
 
+## In sageMaker
+
+### s3
+<img width="954" height="40" alt="image" src="https://github.com/user-attachments/assets/42f29b6f-d6b5-4639-b95a-c2d639539d0b" />
+
+### Model
+
+<img width="1569" height="478" alt="image" src="https://github.com/user-attachments/assets/64f034aa-6b97-4e38-9479-c7b9258b663c" />
+
+### Error Permissions to deploy
+
+<img width="1041" height="649" alt="image" src="https://github.com/user-attachments/assets/fd2eb49b-0013-4f6e-90eb-93ca2e945ca2" />
+
+
 #### Screenshot: Permission Error
 
 <img width="993" height="548" alt="IAM Error" src="https://github.com/user-attachments/assets/d800c41e-7f3b-4cd2-b17f-0e90e1fdd187" />
