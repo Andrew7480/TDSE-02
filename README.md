@@ -58,26 +58,6 @@ The model achieves a good balance between sensitivity and specificity, suitable 
 
 ---
 
-## Running the Notebook
-
-### Prerequisites
-
-```bash
-Python 3.8+
-Jupyter Notebook or JupyterLab
-Libraries: numpy, pandas, matplotlib
-```
-
-### Installation & Execution
-
-```bash
-1. Clone or download the repository
-2. Navigate to the project directory
-3. Install dependencies: pip install numpy pandas matplotlib
-4. Open Jupyter: jupyter notebook
-5. Run heart_disease_lr_analysis.ipynb cell-by-cell
-```
-
 ### Notebook Structure
 
 The notebook is organized into 8 main sections:
@@ -158,8 +138,13 @@ The notebook includes a complete deployment guide covering:
 
 <img width="1866" height="998" alt="Local Test Output" src="https://github.com/user-attachments/assets/68d7f59c-c171-4fa0-893a-88f356f598e1" />
 
-#### Screenshot 5: Test Output Explanation
 <img width="1866" height="1001" alt="Test Explanation" src="https://github.com/user-attachments/assets/d6511865-5ba9-4ba3-9373-d0ceb9b0d369" />
+
+### running in SageMaker Studio
+
+<img width="1824" height="867" alt="image" src="https://github.com/user-attachments/assets/89074f8b-e041-4738-89ff-dea38283b4b1" />
+
+<img width="1267" height="935" alt="image" src="https://github.com/user-attachments/assets/b0ab6689-f65f-442d-b583-f29a44b3258f" />
 
 ---
 
@@ -183,24 +168,23 @@ Error: User is not authorized to perform: sagemaker:CreateEndpointConfig
 on resource: arn:aws:sagemaker:us-east-1:*:endpoint-config/*
 Reason: Explicit deny in policy VocLabPolicy3-hxR4rpqIpSMq
 ```
+<img width="1020" height="656" alt="image" src="https://github.com/user-attachments/assets/d65c432b-52fa-4610-a7a5-7f3996a509cd" />
+
+<img width="1002" height="493" alt="image" src="https://github.com/user-attachments/assets/ab539beb-a86d-4c49-aa79-d9b9546a906f" />
+
+
+<img width="1005" height="746" alt="image" src="https://github.com/user-attachments/assets/105746f8-c892-4b9e-99a5-a8c108026839" />
+
+## Local Test on SageMaker
+
+<img width="1499" height="301" alt="image" src="https://github.com/user-attachments/assets/af096f08-8d99-4827-adb3-71ee2e488f23" />
+
 
 #### Screenshot: Permission Error
 
 <img width="993" height="548" alt="IAM Error" src="https://github.com/user-attachments/assets/d800c41e-7f3b-4cd2-b17f-0e90e1fdd187" />
 
 ---
-
-## Key Learnings
-
-1. **Logistic Regression from First Principles**: Understanding gradient descent, sigmoid activation, and cost function optimization
-2. **Regularization**: L2 regularization prevents overfitting and improves generalization
-3. **Model Evaluation**:  Importance of proper train/test splitting and multi-metric assessment (accuracy, precision, recall, F1)
-4. **Model Serialization**: Proper persistence of model state (weights, biases, normalization parameters) for reproducible inference
-5. **MLOps Concepts**: Containerization, artifact packaging, and cloud deployment workflows
-6. **AWS Constraints**: IAM policies and resource quotas in learning environments require careful planning and escalation to administrators
-
----
-
 
 ## References
 
