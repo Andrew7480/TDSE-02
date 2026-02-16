@@ -193,6 +193,8 @@ Reason: Explicit deny in policy VocLabPolicy3-hxR4rpqIpSMq
 
 <img width="1041" height="649" alt="image" src="https://github.com/user-attachments/assets/fd2eb49b-0013-4f6e-90eb-93ca2e945ca2" />
 
+<img width="1580" height="949" alt="image" src="https://github.com/user-attachments/assets/a04b5b70-431d-4fdf-ae3b-cd9127e934f6" />
+
 
 #### Screenshot: Permission Error
 
